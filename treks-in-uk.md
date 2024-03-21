@@ -7,7 +7,6 @@
 * It is a 7-mile long ridge traverse having 13,000-ft of ascent, 11 Munros, and the same basic rock-climbing.
 * Some pictures of The Cuillin Ridge Traverse-
 
-![alt text](https://skyeguides.co.uk/wp-content/uploads/2011/12/webCuillin-Ridge-665x350.jpg)
 ![alt text](https://i0.wp.com/dirtbagsclimbing.co.uk/wp-content/uploads/2022/06/20220604_192442.jpg?w=1960&ssl=1)
 ![alt text](https://i0.wp.com/dirtbagsclimbing.co.uk/wp-content/uploads/2022/06/846C71D7-8F8E-4407-8EB8-AA295DF0E938-1.jpg?resize=1024%2C576&ssl=1)
 
