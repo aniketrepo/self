@@ -5,6 +5,6 @@
 * Situated on the Isle of Skye, rivals the greatest ridges in the Alps for beauty and quality.
 * It is an alpine-style route unlike anything else in the UK but one should be a highly competent mountaineer to complete it.
 * It is a 7-mile long ridge traverse having 13,000-ft of ascent, 11 Munros, and the same basic rock-climbing.
-[alt text](https://skyeguides.co.uk/wp-content/uploads/2011/12/webCuillin-Ridge-665x350.jpg)
+![alt text](https://skyeguides.co.uk/wp-content/uploads/2011/12/webCuillin-Ridge-665x350.jpg)
 
 ## The Quiraing
