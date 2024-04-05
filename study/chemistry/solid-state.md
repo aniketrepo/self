@@ -9,6 +9,8 @@
 
 ## Amorphous and Crystalline Solids
 
+![alt text](https://github.com/aniketrepo/self/blob/main/study/chemistry/imgs/crystalline-amorphous.png)
+
 |Crystalline Solids                              |Amorphous Solids                                                   |
 | ---------------------------------------------- | ----------------------------------------------------------------- |
 |Long range, orderly arrangement of constituents.|Short range, random arrangement of constituents.                   |
