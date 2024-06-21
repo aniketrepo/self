@@ -3,7 +3,7 @@
 **June 21 - 22: Relations and Functions and Inverse Trigonometric Functions**
 - [ ] **June 21:**
   - [ ] Relations:
-    - Types of relations (binary, ternary).
+    - Types of relations (empty, universal, reflexive, symmetric, transitive).
     - Equivalence relations.
   - [ ] Functions:
     - Definitions and types (one-one, onto, bijection).
