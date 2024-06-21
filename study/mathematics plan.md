@@ -1,6 +1,6 @@
 ### Revised Study Plan
 
-**June 21 - 22: Relations and Functions and ITF**
+**June 21 - 22: Relations and Functions and Inverse Trigonometric Functions**
 - [ ] **June 21:**
   - [ ] Relations:
     - Types of relations (binary, ternary).
