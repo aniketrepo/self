@@ -113,7 +113,7 @@
   - [ ] **Practice Problems:**
     - Solve problems involving probability.
 
-### Review and Practice Tests: July 10 - July 14
+#### Review and Practice Tests: July 10 - July 14
 
 **July 10 - 14: Review and Practice Tests**
 - [ ] **July 10 - 13:**
