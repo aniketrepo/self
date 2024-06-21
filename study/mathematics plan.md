@@ -1,14 +1,14 @@
 ### Revised Study Plan
 
 **June 21 - 22: Relations and Functions and Inverse Trigonometric Functions**
-- [ ] **June 21:**
+- [x] **June 21:**
   - [x] **Relations:**
     - [x] Types of relations (empty, universal, reflexive, symmetric, transitive).
     - [x] Equivalence relations.
   - [x] **Functions:**
     - [x] Definitions and types (one-one, onto, bijection).
-  - [ ] **Practice Problems:**
-    - [ ] Solve problems related to relations and functions.
+  - [x] **Practice Problems:**
+    - [x] Solve problems related to relations and functions.
 
 - [ ] **June 22:**
   - [ ] **Inverse Trigonometric Functions:**
