@@ -2,16 +2,16 @@
 
 **June 21 - 22: Relations and Functions and Inverse Trigonometric Functions**
 - [ ] **June 21:**
-  - [x] Relations:
+  - [x] **Relations:**
     - [x] Types of relations (empty, universal, reflexive, symmetric, transitive).
     - [x] Equivalence relations.
-  - [x] Functions:
+  - [x] **Functions:**
     - [x] Definitions and types (one-one, onto, bijection).
   - [ ] **Practice Problems:**
     - [ ] Solve problems related to relations and functions.
 
 - [ ] **June 22:**
-  - [ ] Inverse Trigonometric Functions:
+  - [ ] **Inverse Trigonometric Functions:**
     - [ ] Definitions and principal values.
     - [ ] Properties and graphs.
   - [ ] **Practice Problems:**
@@ -19,27 +19,27 @@
 
 **June 23 - 24: Matrices and Determinants**
 - [ ] **June 23:**
-  - [ ] Matrices:
+  - [ ] **Matrices:**
     - [ ] Types of matrices (square, rectangular).
     - [ ] Operations on matrices (addition, subtraction, multiplication by a scalar).
   - [ ] **Practice Problems:**
     - [ ] Solve problems involving matrix operations.
 
 - [ ] **June 24:**
-  - [ ] Determinants:
+  - [ ] **Determinants:**
     - [ ] Properties of determinants.
   - [ ] **Practice Problems:**
     - [ ] Solve problems involving determinants.
 
 **June 25 - 26: Continuity and Differentiability**
 - [ ] **June 25:**
-  - [ ] Continuity:
+  - [ ] **Continuity:**
     - [ ] Continuity of functions (algebraic, trigonometric, exponential).
   - [ ] **Practice Problems:**
     - [ ] Solve problems related to continuity.
 
 - [ ] **June 26:**
-  - [ ] Differentiability:
+  - [ ] **Differentiability:**
     - [ ] Differentiation rules (sum, difference, product, quotient, chain rule).
   - [ ] **Practice Problems:**
     - [ ] Solve problems involving differentiation.
@@ -47,28 +47,28 @@
 
 **June 27 - 28: Application of Derivatives**
 - [ ] **June 27:**
-  - [ ] Applications of Derivatives:
+  - [ ] **Applications of Derivatives:**
     - [ ] Maxima and Minima.
     - [ ] Rate of change, tangents and normals.
   - [ ] **Practice Problems:**
     - [ ] Solve problems involving applications of derivatives.
 
 - [ ] **June 28:**
-  - [ ] Indefinite Integrals:
+  - [ ] **Indefinite Integrals:**
     - [ ] Integration techniques (substitution, by parts).
   - [ ] **Practice Problems:**
     - [ ] Solve problems involving indefinite integrals.
 
 **June 29 - 30: Integrals**
 - [ ] **June 29:**
-  - [ ] Definite Integrals:
+  - [ ] **Definite Integrals:**
     - [ ] Area under curves.
     - [ ] Definite integrals and their properties.
   - [ ] **Practice Problems:**
     - [ ] Solve problems involving definite integrals.
 
 - [ ] **June 30:**
-  - [ ] Differential Equations:
+  - [ ] **Differential Equations:**
     - [ ] Formation of differential equations.
     - [ ] Methods of solving first-order differential equations.
   - [ ] **Practice Problems:**
@@ -77,14 +77,14 @@
 
 **July 1 - 2: Vector Algebra**
 - [ ] **July 1:**
-  - [ ] Vectors:
+  - [ ] **Vectors:**
     - [ ] Basic concepts (magnitude, direction).
     - [ ] Scalar and vector products.
   - [ ] **Practice Problems:**
     - [ ] Solve problems involving vectors.
 
 - [ ] **July 2:**
-  - [ ] Three Dimensional Geometry:
+  - [ ] **Three Dimensional Geometry:**
     - [ ] Direction cosines and direction ratios.
     - [ ] Equation of a line and plane in space.
   - [ ] **Practice Problems:**
@@ -92,14 +92,14 @@
 
 **July 3 - 4: Linear Programming**
 - [ ] **July 3:**
-  - [ ] Linear Programming:
+  - [ ] **Linear Programming:**
     - [ ] Formulation of linear programming problems.
     - [ ] Graphical method of solving linear programming problems.
   - [ ] **Practice Problems:**
     - [ ] Solve problems involving linear programming.
 
 - [ ] **July 4:**
-  - [ ] Probability:
+  - [ ] **Probability:**
     - [ ] Basic concepts (sample space, events, probability).
     - [ ] Conditional probability and Bayes' theorem.
   - [ ] **Practice Problems:**
