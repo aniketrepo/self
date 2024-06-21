@@ -5,8 +5,8 @@
   - [x] Relations:
     - [x] Types of relations (empty, universal, reflexive, symmetric, transitive).
     - [x] Equivalence relations.
-  - [ ] Functions:
-    - [ ] Definitions and types (one-one, onto, bijection).
+  - [x] Functions:
+    - [x] Definitions and types (one-one, onto, bijection).
   - [ ] **Practice Problems:**
     - [ ] Solve problems related to relations and functions.
 
