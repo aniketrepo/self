@@ -10,12 +10,12 @@
   - [x] **Practice Problems:**
     - [x] Solve problems related to relations and functions.
 
-- [ ] **June 22:**
-  - [ ] **Inverse Trigonometric Functions:**
-    - [ ] Definitions and principal values.
-    - [ ] Properties and graphs.
-  - [ ] **Practice Problems:**
-    - [ ] Solve problems involving inverse trigonometric functions.
+- [x] **June 22:**
+  - [x] **Inverse Trigonometric Functions:**
+    - [x] Definitions and principal values.
+    - [x] Properties and graphs.
+  - [x] **Practice Problems:**
+    - [x] Solve problems involving inverse trigonometric functions.
 
 **June 23 - 24: Matrices and Determinants**
 - [ ] **June 23:**
