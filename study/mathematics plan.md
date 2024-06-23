@@ -19,9 +19,9 @@
 
 **June 23 - 24: Matrices and Determinants**
 - [ ] **June 23:**
-  - [ ] **Matrices:**
-    - [ ] Types of matrices (square, rectangular).
-    - [ ] Operations on matrices (addition, subtraction, multiplication by a scalar).
+  - [x] **Matrices:**
+    - [x] Types of matrices (square, rectangular).
+    - [x] Operations on matrices (addition, subtraction, multiplication by a scalar).
   - [ ] **Practice Problems:**
     - [ ] Solve problems involving matrix operations.
 
